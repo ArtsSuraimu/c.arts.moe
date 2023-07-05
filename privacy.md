@@ -1,5 +1,5 @@
 
-# Datenschutzinformation für die Mastodon-Instanz m.arts.moe
+# Datenschutzinformation für die Calckey-Instanz c.arts.moe
 
 Wir freuen uns, dass Du unsere Mastodon-Instanz gefunden hast und nutzen möchtest. Im Folgenden informieren wir Dich gemäß der seit dem 25. Mai 2018 geltenden Datenschutzgrundverordnung der EU (DSGVO) über unseren Umgang mit Deinen personenbezogenen Daten bei der Nutzungs dieser Instanz und welche Rechte Du gegenüber uns hast.
 
